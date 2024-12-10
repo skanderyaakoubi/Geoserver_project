@@ -17,4 +17,4 @@ This project empowers you to:
 
 2. **OpenLayers Map with GeoServer Layers**  
    This screenshot shows the OpenLayers map with integrated GeoServer layers:
-   ![OpenLayers Map with GeoServer Layers](./images/Capture%20d%27écran%202024-12-10%20105305.png)
+   ![OpenLayers Map with GeoServer Layers]("images\Capture d’écran 2024-12-10 105305.png")
