@@ -13,7 +13,7 @@ This project empowers you to:
 
 1. **Global View of the Map**  
    Below is a screenshot displaying the global view of the map:
-   ![Global View](./Capture%20d%27écran%202024-12-10%20194108.png)
+   ![Global View](./images/Capture%20d%27écran%202024-12-10%20194108.png)
 
 2. **OpenLayers Map with GeoServer Layers**  
    This screenshot shows the OpenLayers map with integrated GeoServer layers:
