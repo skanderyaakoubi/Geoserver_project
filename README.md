@@ -13,8 +13,8 @@ This project empowers you to:
 
 1. **Global View of the Map**  
    Below is a screenshot displaying the global view of the map:
-   ![Global View](C:/Users/farid/geoserver/Capture%20d%27écran%202024-12-10%20194108.png)
+   ![Global View](./Capture%20d%27écran%202024-12-10%20194108.png)
 
 2. **OpenLayers Map with GeoServer Layers**  
    This screenshot shows the OpenLayers map with integrated GeoServer layers:
-   ![OpenLayers Map with GeoServer Layers](C:/Users/farid/geoserver/images/Capture%20d%27écran%202024-12-10%20105305.png)
+   ![OpenLayers Map with GeoServer Layers](./images/Capture%20d%27écran%202024-12-10%20105305.png)
